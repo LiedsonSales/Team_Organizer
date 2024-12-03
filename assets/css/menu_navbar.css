@@ -33,3 +33,7 @@
     display: flex;
 }
 
+.nav-container a:hover {
+    color: #0800ff7d;
+}
+
