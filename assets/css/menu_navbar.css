@@ -1,9 +1,12 @@
 .header-logo-nav {
     width: 100%;
     margin-bottom: -100px;
-    background: linear-gradient(180deg, #7ab3177d 0%, #FFFFFF00 100%);
+    background: linear-gradient(180deg, #FFFFFF00 90%, #44ff008a 100%);
+    opacity: 0.9;
     position: absolute;
     z-index: 10;
+    background-color: black;
+    height: 100px;
 }
 
 .logo-nav {
@@ -34,6 +37,6 @@
 }
 
 .nav-container a:hover {
-    color: #0800ff7d;
+    color: #00ff00fe;
 }
 
