@@ -15,13 +15,12 @@
     margin: 0 auto;
     padding-bottom: 60px;
     border-radius: 10px;
-    background-color: silver;
 }
 
 .title {
     font-family: 'Archivo Black', sans-serif;
     font-style: normal;
-    color: black;
+    color: white;
     font-size: 30px;
     display: flex;
     align-items: center;
@@ -37,12 +36,31 @@
     align-items: center;
     justify-content: space-between;
     height: 100px;
+    padding: 0 120px;
 }
 
 #num-selector {
     display: block;
-    width: 200px;
+    width: 280px;
     height: 50px;
-    border: 20px;
+    border: 30px;
     padding: 0 20px;
+    font-size: 20px;
+}
+
+.selector {
+    margin: 0 30px;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+
+#player-names {
+    display: block;
+    width: 655px;
+    margin: 0 auto;
+    padding: 6px 10px;
+    height: 240px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 100px;
 }
