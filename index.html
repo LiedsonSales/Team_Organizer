@@ -31,7 +31,7 @@
             </div>
             <div class="sep-container">
                 <div class="selector">
-                    <select name="teams" id="num-selector">
+                    <select name="teams" id="num-selector" class="qtd-equipes">
                         <option value="2">2 equipes</option>
                         <option value="3">3 equipes</option>
                         <option value="4">4 equipes</option>
@@ -44,26 +44,23 @@
                     </select>
                 </div>
                 <div class="selector">
-                    <select name="players" id="num-selector">
-                        <option value="2">2 jogdores/equipe</option>
-                        <option value="3">3 jogdores/equipe</option>
-                        <option value="4">4 jogdores/equipe</option>
-                        <option value="5">5 jogdores/equipe</option>
-                        <option value="6">6 jogdores/equipe</option>
-                        <option value="7">7 jogdores/equipe</option>
-                        <option value="8">8 jogdores/equipe</option>
-                        <option value="9">9 jogdores/equipe</option>
-                        <option value="10">10 jogdores/equipe</option>
-                        <option value="11">11 jogdores/equipe</option>
+                    <select name="players" id="num-selector" class="qtd-jogadores">
+                        <option value="2">2 jogadores/equipe</option>
+                        <option value="3">3 jogadores/equipe</option>
+                        <option value="4">4 jogadores/equipe</option>
+                        <option value="5">5 jogadores/equipe</option>
+                        <option value="6">6 jogadores/equipe</option>
+                        <option value="7">7 jogadores/equipe</option>
+                        <option value="8">8 jogadores/equipe</option>
+                        <option value="9">9 jogadores/equipe</option>
+                        <option value="10">10 jogadores/equipe</option>
+                        <option value="11">11 jogadores/equipe</option>
                     </select>
                 </div>
             </div>
-            <textarea name="values" id="player-names" placeholder="
-            Teste 01
-            Teste 02
-            Teste 03
-            Teste 04">
-            </textarea>
+            <label for="player-names"></label>
+            <textarea name="values" id="player-names" cols="30" rows="10"></textarea>
+            <button class="submit-button">Sortear Times</button>
         </div>
     </section>
 
