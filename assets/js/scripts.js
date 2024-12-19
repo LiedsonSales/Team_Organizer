@@ -18,12 +18,15 @@ button.addEventListener('click', function(event) {
     jogadores = players.value.split('\n');
 
     console.log(jogadores.length, '-> tamanho');
+    let nomes;
 
-    for (value in jogadores) {
+    for (let i = 0; jogadores.length; i++) {
         const randomic = randomLuck(jogadores);
-
-        console.log(randomic);
         console.log(jogadores);
-        console.log(jogadores[randomic]);
+
+        nomes = jogadores.splice(randomic, 1).join();
+        
+        console.log(randomic, '-> índice');
+        console.log(nomes)
     }
 })
