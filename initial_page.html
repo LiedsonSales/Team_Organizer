@@ -8,12 +8,16 @@
     <link rel="stylesheet" href="./assets/css/menu_navbar.css">
     <link rel="stylesheet" href="./assets/css/main_content.css">
     <link rel="stylesheet" href="./assets/css/code_button.css">
+
 </head>
 <body class="body">
+    <div class="back-image">
+        <img src="./assets/img/background-section-01.jpg" alt="">
+    </div>
     <header class="header-logo-nav">
         <div class="logo-nav">
             <div class="logo-content">
-                <a href="#"><img src="./assets/img/—Pngtree—football football cartoon cartoon football_3921761.png" alt=""></a>
+                <h3>Timaço</h3>
             </div>
             <div class="nav-container">
                 <nav> 
@@ -31,7 +35,7 @@
                 <h1>ORGANIZE SEUS TIMES</h1>
             </div>
             <div class="sep-container">
-                <div class="selector">
+                <!-- <div class="selector">
                     <select name="teams" id="num-selector" class="qtd-equipes">
                         <option value="2">2 equipes</option>
                         <option value="3">3 equipes</option>
@@ -43,7 +47,8 @@
                         <option value="9">9 equipes</option>
                         <option value="10">10 equipes</option>
                     </select>
-                </div>
+                </div> -->
+                <p>Tamanho das equipes: </p>
                 <div class="selector">
                     <select name="players" id="num-selector" class="qtd-jogadores">
                         <option value="2">2 jogadores/equipe</option>
@@ -60,11 +65,13 @@
                 </div>
             </div>
             <label for="player-names"></label>
-            <textarea name="values" id="player-names" cols="30" rows="10"></textarea>
+            <textarea name="values" id="player-names" cols="30" rows="10" placeholder="digite o nome dos jogadores (um por linha)"></textarea>
             <button class="submit-button">Sortear Times</button>
+
+            <div id="result"></div>
         </div>
     </section>
 
-    <script src="./assets/js/scripts.js"></script>
+    <script src="./assets/js/script_teste.js"></script>
 </body>
 </html>

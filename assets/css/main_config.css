@@ -25,6 +25,6 @@ html {
 
 body {
     font-family: 'Montserrat', sans-serif;
-    /* background: var(--main-background); */
+    background: var(--light-green);
     font-size: 1.5em;
 }

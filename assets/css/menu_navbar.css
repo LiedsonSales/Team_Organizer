@@ -1,4 +1,5 @@
 .header-logo-nav {
+    display: none;
     width: 100%;
     margin-bottom: -100px;
     background: linear-gradient(180deg, #FFFFFF00 90%, #44ff008a 100%);
@@ -7,6 +8,7 @@
     z-index: 10;
     background-color: black;
     height: 100px;
+    color: #fff;
 }
 
 .logo-nav {
@@ -15,11 +17,6 @@
     display: flex;
     justify-content: space-between;
     font-size: 2rem;
-}
-
-.logo-content img {
-    width: 8rem;
-    height: 8rem;
 }
 
 .nav-container {
@@ -38,5 +35,9 @@
 
 .nav-container a:hover {
     color: #00ff00fe;
+}
+
+.logo-content {
+    margin: 0 auto;
 }
 
