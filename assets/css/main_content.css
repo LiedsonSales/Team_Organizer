@@ -110,4 +110,12 @@
     .title {
         font-size: 10px;
     }
+
+    .sep-container {
+        display: block
+    }
+
+    #num-selector {
+        width: 70%;
+    }
 }
