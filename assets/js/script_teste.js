@@ -1,6 +1,13 @@
 const button = document.querySelector('.submit-button');
 
+const textarea = document.getElementById("player-names");
+  const contador = document.getElementById("contador");
 
+  textarea.addEventListener("input", () => {
+    let linhas = textarea.value.split("\n").filter(l => l.trim() !== "").length;
+    contador.textContent = `${linhas} jogador${linhas !== 1 ? 'es' : ''}`;
+  })
+  
 button.addEventListener('click', function(Event) {
     let players = document.getElementById('player-names').value
     .split('\n')
@@ -28,7 +35,4 @@ button.addEventListener('click', function(Event) {
         resultDiv.appendChild(groupDiv)
         groupCount++
     }
-
-
-
 })
