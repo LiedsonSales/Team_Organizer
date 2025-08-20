@@ -112,10 +112,11 @@
     }
 
     .sep-container {
-        display: block
+        display: block;
     }
 
     #num-selector {
         width: 70%;
+        margin: 10px 0;
     }
 }
