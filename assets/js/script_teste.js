@@ -52,14 +52,18 @@ button.addEventListener('click', function(Event) {
     wppDiv.appendChild(wppBtn);
 
     wppBtn.onclick = function() {
-      let mensagem = 'Resultado do sorteio 🏆\n\n';
+      let mensagem = '🏆 Resultado do sorteio 🏆\n\n';
       equipes.forEach((time, index) => {
         mensagem += `Equipe ${index + 1}:\n`;
+        let count = 1
         time.forEach(jogador => {
-          mensagem += `- ${jogador}\n`;
+          mensagem += `${count} - ${jogador}\n`;
+          count++
         });
         mensagem += '\n';
       });
+
+      mensagem += 'Sorteio gerado pela timania \nAcesse o site em: https://timania.netlify.app/'
 
       const url = "https://wa.me/?text=" + encodeURIComponent(mensagem);
         window.open(url, "_blank");
