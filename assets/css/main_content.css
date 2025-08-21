@@ -48,6 +48,8 @@
 }
 
 #player-names {
+    overflow-y: scroll;
+    resize: none;
     display: block;
     width: 90%;
     margin: 0 auto;
@@ -59,6 +61,7 @@
     border: 2px solid black;
 }
 
+/* Botão de sorteio */
 .submit-button {
     font-family: "montserrat", sans-serif;
     display: block;
@@ -79,6 +82,7 @@
     border:3px solid black;
 }
 
+/* Div de resultadoss */
 .groups {
     margin-top: 20px;
 }
@@ -95,6 +99,35 @@
     color: #1b5e20;
 }
 
+/* Botão whatsapp */
+#wpp {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+#wpp button {
+    background-color: #25d366;
+    border: none;
+    border-radius: 50%;
+    padding: 12px;
+    cursor: pointer;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2 ease, background-color 0.2 ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#wpp button svg {
+    fill: white;
+}
+
+#wpp button:hover {
+    background-color: #1ebe5d;
+    transform: scale(1.1);
+}
+
 .contador {
     bottom: 6px;
     right: 10px;
@@ -106,7 +139,7 @@
     padding: 0 30px;
   }
 
-  @media (max-width: 480px) {
+@media (max-width: 480px) {
     .title {
         font-size: 10px;
     }
@@ -118,5 +151,9 @@
     #num-selector {
         width: 70%;
         margin: 10px 0;
+    }
+
+    .contador {
+        padding: 0 20px;
     }
 }
