@@ -8,9 +8,9 @@ textarea.addEventListener("input", () => {
   contador.textContent = `${linhas} jogador${linhas !== 1 ? 'es' : ''}`;
 })
 
-var btn;
-let equipes = [];
+
 button.addEventListener('click', function(Event) {
+    let equipes = [];
     let players = document.getElementById('player-names').value
     .split('\n')
     .map(p => p.trim())
