@@ -24,20 +24,6 @@
 ![python][PYTHON_BADGE]
 ![prs][PRS_BADGE]
 
-<details open="open">
-<summary>Table of Contents</summary>
- 
-- [📌 About](#started)
-- [🚀 Getting started](#started)
-  - [Prerequisites](#prerequisites)
-  - [Cloning](#cloning)
-  - [Starting](#starting)
-- [📍 Application Routes](#routes)
-- [🤝 Collaborators](#colab)
-- [📫 Contribute](#contribute)
-  
-</details>
-
 
 <p align="center">
     <img src="../.github/example.png" alt="Image Example" width="400px">
@@ -71,4 +57,4 @@ git clone your-project-url-in-github
 <h3>Acessando o site:</h3>
 
 Comece a sortear suas equipes de futebol pelo link: 
-https://timania.netlify.app/
+<a href="https://timania.netlify.app/" target="blank">https://timania.netlify.app/</a>
