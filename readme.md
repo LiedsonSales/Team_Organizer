@@ -57,4 +57,4 @@ git clone your-project-url-in-github
 <h3>Acessando o site:</h3>
 
 Comece a sortear suas equipes de futebol pelo link: 
-<a href="https://timania.netlify.app/" target="blank">https://timania.netlify.app/</a>
+<a href="https://timania.netlify.app/" target="_blank">https://timania.netlify.app/</a>
