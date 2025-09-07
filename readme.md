@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="./assets/img/Captura de Tela 2025-09-06 às 21.29.07.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 About</h2>
