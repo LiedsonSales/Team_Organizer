@@ -1,4 +1,8 @@
+[HTML5__BADGE]: https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+
 
 <h1 align="center" style="font-weight: bold;">Project name 💻</h1>
 
