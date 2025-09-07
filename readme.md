@@ -17,9 +17,6 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
 </p>
 
 
-
-[![project][TIMANIA__BADGE]][[PROJECT__URL](https://timania.netlify.app/)]
-
 <h2 id="started">🚀 Acessando o site:</h2>
 
 Comece a sortear suas equipes de futebol pelo link: 
