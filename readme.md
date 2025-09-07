@@ -1,9 +1,3 @@
-[HTML5__BADGE]: https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-
-
 <h1 align="center" style="font-weight: bold;">Project name 💻</h1>
 
 <img align="center" alt="Liedson-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
