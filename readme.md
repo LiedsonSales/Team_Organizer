@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: bold;">Project name 💻</h1>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin:0 auto" ><br>
     <img align="center" alt="Liedson-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Liedson-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" alt="Liedson-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
