@@ -15,7 +15,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
 
 <h2 id="started">💻 Funcionalidade:</h2>
 
-
+Ao acessar o site, você verá uma landing page simples e responsiva, com todas as funcionalidades de fácil acesso:
 
 <p align="center">
     <img src="./assets/img/inicial.jpeg" alt="Image Example" width="400px">
