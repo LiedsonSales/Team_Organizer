@@ -22,7 +22,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
 </p>
 
 <p align="center">
-    <img src="./assets/img/contador_de_jogadores.jpeg" width="200px">
+    <img src="./assets/img/adiciona_jogadores.jpeg" width="200px">
 </p>
 
 
