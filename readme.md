@@ -15,7 +15,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
 
 <h2 id="started">💻 Funcionalidade:</h2>
 
-1.PRIMEIRO PASSO:
+1. PRIMEIRO PASSO:<br>
     Ao acessar o site, você verá uma landing page simples e responsiva, com todas as funcionalidades de fácil acesso:
     <br>
 
@@ -23,7 +23,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <img src="./assets/img/inicial.jpeg" alt="Image Example" width="400px">
 </p>
 
-2.QUANTIDADE DE JOGADORES:
+2. QUANTIDADE DE JOGADORES:<br>
     Comece selecionando a quantidade de jogadores que terá em cada equipe. Você pode selecionar um máximo de 11 jogadores em cada equipe.
     <br>
 
@@ -31,7 +31,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <img src="./assets/img/tamanho_equipes.jpeg" width="400px">
 </p>
 
-3.ADICIONE SUA LISTA DE JOGADORES:
+3. ADICIONE SUA LISTA DE JOGADORES:<br>
     Adicone um jogador por linha na área de texto. Linhas vazias serão desconsideradas e não serão contabilizadas no contador de jogadores.
     <br>
 
@@ -39,7 +39,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <img src="./assets/img/adicionar_jogadores.jpeg" width="400px">
 </p>
 
-4.SORTEIE SUAS EQUIPES:
+4. SORTEIE SUAS EQUIPES:<br>
     Ao clicar em SORTEAR, uma nova área surgirá com suas equipes formadas. cada equipe estará organizada em um balão verde para que fique fácil a identificação. Ao final do sorteio, um botão com link pro whatsapp estará disponível.
     <br>
 
@@ -47,7 +47,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <img src="./assets/img/sortear_equipes.jpeg" width="400px">
 </p>
 
-5.COMPARTILHAR COM WHATSAPP:
+5. COMPARTILHAR COM WHATSAPP:<br>
     Ao clicar em compartilhar, o usuário será redirecionado para o aplicativo do whatsapp com uma mensagem ja formatada contendo todas as equipes do sorteio. Tudo isso feito de forma fácil e eficaz, para que todos os integrantes se localizem rapidamente.
     <br>
 
