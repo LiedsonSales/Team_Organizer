@@ -10,7 +10,7 @@
 
 <h2 id="started">📌 Sobre o projeto:</h2>
 
-Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5, CSS3 e JavaScript. Além disso, este app foi desenvolvido com uso de ferramentas como Webpack e Babel tanto para melhor compatibilidade com navegadores mais antigos quanto para demonstração do uso destas ferramentas. 
+Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5, CSS3 e JavaScript. Além disso, este app possui uma interface intuitiva e de fácil uso para que seus usuários formem equipes de maneira rápida e sem dor de cabeça. 
 <br>
 
 <h2 id="started">💻 Funcionalidade:</h2>
@@ -18,10 +18,12 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
 
 
 <p align="center">
-    <img src="./assets/img/Captura de Tela 2025-09-06 às 21.29.07.png" alt="Image Example" width="400px">
+    <img src="./assets/img/inicial.jpeg" alt="Image Example" width="400px">
 </p>
 
-
+<p align="center">
+    <img src="./assets/img/contador_de_jogadores.jpeg" width="200px">
+</p>
 
 
 <h2 id="started">🚀 Acessando o site:</h2>
