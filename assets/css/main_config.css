@@ -25,7 +25,7 @@ html {
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background: var(--light-green);
+    background: linear-gradient(354deg,rgba(42, 123, 155, 1) 0%, rgba(3, 102, 0, 1) 100%, rgba(237, 221, 83, 1) 100%);
     font-size: 1.5em;
     display: flex;
     justify-content: center;
