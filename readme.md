@@ -20,7 +20,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <br>
 
 <p align="center">
-    <img src="./assets/img/inicial.jpeg" alt="Image Example" width="400px">
+    <img src="./assets/img/primeira.jpg" alt="Image Example" width="400px">
 </p>
 
 2. QUANTIDADE DE JOGADORES:<br>
@@ -28,7 +28,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <br>
 
 <p align="center">
-    <img src="./assets/img/tamanho_equipes.jpeg" width="400px">
+    <img src="./assets/img/segunda.jpg" width="400px">
 </p>
 
 3. ADICIONE SUA LISTA DE JOGADORES:<br>
@@ -36,7 +36,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <br>
 
 <p align="center">
-    <img src="./assets/img/adicionar_jogadores.jpeg" width="400px">
+    <img src="./assets/img/terceira.jpg" width="400px">
 </p>
 
 4. SORTEIE SUAS EQUIPES:<br>
@@ -44,7 +44,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <br>
 
 <p align="center">
-    <img src="./assets/img/sortear_equipes.jpeg" width="400px">
+    <img src="./assets/img/quarta.jpg" width="400px">
 </p>
 
 5. COMPARTILHAR COM WHATSAPP:<br>
@@ -52,7 +52,7 @@ Um Organizador de equipes de futebol simples e reponsivo, usando puramente HTML5
     <br>
 
 <p align="center">
-    <img src="./assets/img/compartilhar_whatsapp.jpeg" width="400px">
+    <img src="./assets/img/quinta.jpg" width="400px">
 </p>
 
 
